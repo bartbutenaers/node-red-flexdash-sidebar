@@ -1,0 +1,13 @@
+{
+  "name": "node-red-flexdash-sidebar",
+  "version": "1.0.0",
+  "description": "An Node-RED plugin that adds a Flexdash sidebar to the editor",
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "node-red": {
+      "plugins": {
+          "flexdash-sidebar-plugin": "flexdash_sidebar.html"
+      }
+  }
+}
